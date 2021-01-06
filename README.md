@@ -1,1 +1,3 @@
 # staticresponsivewebsite
+
+Readme started
